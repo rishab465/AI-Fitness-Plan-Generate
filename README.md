@@ -29,4 +29,4 @@
 
 
 ## Live Demo
-![Demo App](https://ai-fitness-plan-generate-cjqf.vercel.app/)
+(https://ai-fitness-plan-generate-cjqf.vercel.app/)
