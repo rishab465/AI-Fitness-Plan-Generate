@@ -1,6 +1,10 @@
 <h1 align="center">💪 AI Fitness Assistant 🤖</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+<img width="1887" height="791" alt="image" src="https://github.com/user-attachments/assets/ca6140b8-8a00-437d-bb03-435755c8cc2f" />
+
+<img width="1888" height="775" alt="image" src="https://github.com/user-attachments/assets/88d0f684-9ba5-465d-a68a-810e6843d7ec" />
+
+
 
 ## Highlights:
 - 🚀 Tech stack: Next.js, React, Tailwind & Shadcn UI
