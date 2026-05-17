@@ -3,7 +3,6 @@
 ![Demo App](/public/screenshot-for-readme.png)
 
 ## Highlights:
-
 - 🚀 Tech stack: Next.js, React, Tailwind & Shadcn UI
 - 🎙️ Voice AI Assistant (Vapi)
 - 🧠 LLM Integration (Gemini AI)
